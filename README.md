@@ -37,8 +37,8 @@ Flight_Price_Analysis_and_Prediction/
 - Linear regression (TTR / sqrt target): `R² ≈ 0.68`, `RMSE ≈ 2577`
 - Random Forest (tuned): `R² ≈ 0.89`, `RMSE ≈ 1485`
 - XGBoost (tuned): `R² ≈ 0.91`, `RMSE ≈ 1350`
-  MAPE: 7.53%
-  Model Accuracy: 92.47% for the XGBoost model
+  `MAPE: 7.53%`,
+  `Model Accuracy: 92.47%` for the XGBoost model
 
 ## How to run
 
